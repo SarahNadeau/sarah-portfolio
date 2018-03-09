@@ -1,7 +1,7 @@
 # sarah-portfolio
 An example of my recent coding work.
 
-Hello! This directory is intended to give you a snapshot of some of my current projects through code and visualization.
+Hello! This directory is intended to give you a snapshot of some of my current projects through code and visualization. I have included my resume to give you a broader picture of who I am and what I've been up to.
 
 alaska_dn_gene_visualization is a working visual of results from a functional denitrification gene study performed on metagenomic samples from alaskan forest soils.
 
