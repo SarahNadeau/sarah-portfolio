@@ -1,10 +1,10 @@
 # sarah-portfolio
-An example of my recent coding work.
+Examples of my coding work.
 
-Hello! This directory is intended to give you a snapshot of some of my projects through code and visualization. 
+This directory is intended to give a snapshot of some of my projects through code and visualization, as of Spring 2018.
 
-alaska_dn_gene_visualization is a working visual of results from a functional denitrification gene study performed on metagenomic samples from alaskan forest soils.
+alaska_dn_gene_visualization is a visualization script from a functional denitrification gene study performed on metagenomic samples from alaskan forest soils.
 
-cnn_taxonomy_classification is my novel application of a triplet-loss convolutional neural network. The ultimate goal of this project is to identify the most related organisms in a reference set to unknown metagenomic reads, and to provide a distance metric for these taxonomic "neighbors".
+cnn_taxonomy_classification is from a masters-course project where I used a triplet-loss convolutional neural network to identify the most related organisms in a reference set to unknown metagenomic reads, and to provide a distance metric for these taxonomic "neighbors".
 
-fastqc_cutadapt_workflow is an example of how I document data cleaning. This specific example involves using the opensource tools fastqc (https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) and cutadapt (http://journal.embnet.org/index.php/embnetjournal/article/view/200/479) to remove sequencing adapters from read data.
+fastqc_cutadapt_workflow is an example of data cleaning using the tools fastqc (https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) and cutadapt (http://journal.embnet.org/index.php/embnetjournal/article/view/200/479) to remove sequencing adapters from read data.
